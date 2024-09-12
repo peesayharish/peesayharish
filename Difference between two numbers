@@ -1,0 +1,6 @@
+No1 = int(input('Enter first number'))
+No2 = int(input('Enter second number'))
+if No1 - No2 >= 0:
+    print(No1 - No2)
+else:
+    print(No2 - No1)
